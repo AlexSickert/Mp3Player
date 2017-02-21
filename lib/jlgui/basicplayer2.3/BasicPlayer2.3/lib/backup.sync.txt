@@ -1,0 +1,7 @@
+commons-logging-api.jar|1214079068000|true
+jl0.4.jar|1214079068000|true
+jogg-0.0.5.jar|1214079068000|true
+jorbis-0.0.12.jar|1214079068000|true
+mp3spi1.9.jar|1214079068000|true
+tritonus_share.jar|1214079068000|true
+vorbisspi1.0.jar|1214079068000|true

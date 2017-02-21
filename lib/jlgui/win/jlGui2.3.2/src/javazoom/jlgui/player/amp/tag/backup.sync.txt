@@ -1,0 +1,4 @@
+MpegInfo.java|1214079092000|true
+OggVorbisInfo.java|1214079092000|true
+TagInfo.java|1214079092000|true
+TagInfoFactory.java|1214079092000|true

@@ -1,0 +1,10 @@
+basicplayer2.3.jar|1225758886000|true
+commons-logging-api.jar|1225758886000|true
+jl1.0.jar|1225758886000|true
+jlgui2.3.2.jar|1225758886000|true
+jogg-0.0.7.jar|1225758886000|true
+jorbis-0.0.13.jar|1225758886000|true
+jspeex0.9.3.jar|1225758886000|true
+mp3spi1.9.2.jar|1225758886000|true
+tritonus_share.jar|1225758886000|true
+vorbisspi1.0.1.jar|1225758886000|true

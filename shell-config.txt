@@ -1,0 +1,3 @@
+
+
+java -jar "/home/spaceman/Documents/Mp3Player/dist/Mp3Player.jar"
